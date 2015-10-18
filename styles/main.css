@@ -12,7 +12,7 @@ body {
   background: #F2F1EF;
   font-family: 'Source Code Pro', sans-serif;
   font-weight: 400;
-  height: 130%;
+  height: 150%;
   margin: auto;
   width: 70%;
 }
@@ -65,4 +65,13 @@ body {
   font-size: 15px;
   font-family: 'Open Sans', sans-serif;
   padding: 10px 0px 10px 0px;
+}
+
+.answer {
+  display: none;
+}
+
+.question,
+.solution {
+  padding: 20px 0px 20px 0px;
 }

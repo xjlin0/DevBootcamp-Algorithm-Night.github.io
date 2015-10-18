@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:900,400);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 /* normalize */
 html,
@@ -7,6 +8,61 @@ body {
   margin: 0;
 }
 
-body {
+.outer-container {
+  background: #F2F1EF;
   font-family: 'Source Code Pro', sans-serif;
+  font-weight: 400;
+  height: 130%;
+  margin: auto;
+  width: 70%;
+}
+
+.outer-container h2 {
+  text-align: center;
+}
+
+.notice {
+  background: #663399;
+  color: #F62459;
+  padding: 10px 0px 10px 0px;
+  margin: 0;
+  width: 100%;
+}
+
+.inner-notice {
+  margin: auto;
+  width: 95%;
+}
+
+.inner-container {
+  margin: auto;
+  width: 95%;
+}
+
+.inner-container table {
+  font-size: 15px;
+  width: 100%;
+}
+
+.inner-container thead {
+  font-style: italic;
+}
+
+.inner-container a {
+  color: #F62459;
+  text-decoration: none;
+}
+
+.inner-container a:hover {
+  border-bottom: 1px solid #F62459;
+}
+
+.info {
+  padding: 10px 0px 10px 0px;
+}
+
+.email {
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  padding: 10px 0px 10px 0px;
 }

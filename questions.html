@@ -12,10 +12,23 @@
 <body>
 
   <div class="outer-container">
+
+    <div class="notice">
+      <div class="inner-notice">
+        <h3>Want to add your solution to a question?</h3>
+        <h5>What you need to do:</h5>
+        <ul>
+          <li>make a Gist on Github with your solution</li>
+          <li>prove it works by meeting the test(s) in the question</li>
+          <li>make a pull request at the Organization's repo</li>
+        </ul>
+      </div>
+    </div>
+
     <div class="inner-container">
 
-      <div class="question">
-        <h3>Question</h3>
+      <div class="question general">
+        <h3>General Question</h3>
         <code>
           Without using Ruby iterators such as .each or .map, find the index of a specfic number in an array of unsorted numbers.<br>
           <br>
@@ -23,8 +36,8 @@
             array = [1, 4, 3 , 27]<br>
             indexer(array, 3) # returns 2
         </code>
-        </pre>
 
+        <!-- for contributing... copy and past the 'solution' div and replace the links/name accordingly. hypthetically, you would say [your name]'s solution and replace the script tag with the one you generate from your Gist -->
         <div class="solution">
           <a class="person">John's Solution</a>
           <div class="answer">
@@ -41,16 +54,9 @@
           </div>
         </div>
 
-
-      </div>
-
-
-
-    </div>
-  </div>
-
-
-
+      </div> <!-- end question general -->
+    </div> <!-- end inner container -->
+  </div> <!-- end outer container -->
 
 </body>
 </html>

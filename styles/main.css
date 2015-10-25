@@ -9,7 +9,7 @@ body {
 }
 
 .outer-container {
-  background: #F2F1EF;
+  background-size: cover;
   font-family: 'Source Code Pro', sans-serif;
   font-weight: 400;
   height: 150%;
@@ -78,4 +78,12 @@ body {
 
 .solution {
   cursor: pointer;
+}
+
+button {
+  border: none;
+}
+
+button:hover {
+  background: yellow;
 }

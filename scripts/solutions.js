@@ -14,7 +14,7 @@ function Main() {
     if (e.target.className == 'person') {
       e.target.nextElementSibling.style.display = 'block'
     } else if (e.target.className == 'hide-answer') {
-      console.log(e.target.parentElement.style.display = 'none')
+      e.target.parentElement.style.display = 'none'
     } else if (e.target.id) {
       if (e.target.id == 'all') {
         self.showQuestions()

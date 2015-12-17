@@ -22,8 +22,8 @@ body {
 }
 
 .notice {
-  background: #663399;
-  color: #F62459;
+  background: rgba(51, 76, 153, 0.37);
+  color: #aa193e;
   padding: 10px 0px 10px 0px;
   margin: 0;
   width: 100%;

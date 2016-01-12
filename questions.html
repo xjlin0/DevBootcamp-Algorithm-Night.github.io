@@ -33,6 +33,7 @@
       <button id="general">General</button>
       <button id="bigo">Big O</button>
       <button id="recursion">Recursion</button>
+      <button id="stacks-queues">Stacks & Queues</button>
 
       <!-- !!! -->
       <div class="question general">
@@ -139,6 +140,97 @@
 
       </div>
 
+      <div class="question stacks-queues">
+        <h3>Stacks & Queues Question</h3>
+        <code>
+          With the 'algorithm-night' gem, use 2 Stacks to make 1 Queue. <i>You are not allowed to use an Array or a Queue</i>. Use the below skeleton code:
+          <br>
+          <br>
+          <pre>
+            class Q 
+              attr_accessor :one, :two
+
+              def initialize 
+                # do not initialize Stack classes with a size limitation 
+                @one = Stack.new 
+                @two = Stack.new 
+              end
+
+              # TODO 
+              def enqueue(item) 
+              end  
+
+              # TODO 
+              def dequeue 
+              end 
+            end
+
+              # tests should print 2 “trues” 
+            q = Q.new 
+            q.enqueue(1)
+             q.enqueue(2)
+              p q.dequeue == 1
+              q.enqueue(3)
+              p q.dequeue == 2
+          </pre>
+        </code>
+
+        <!-- solution goes here -->
+
+      </div>
+
+      <div class="question stacks-queues">
+        <h3>Stacks & Queues Question</h3>
+        <code>
+          Write a Ruby script, ONLY using a Stack, to ensure the brackets are correct in our code. After doing a “File.readlines(‘filename.whatever’), we did a quick transform and our provided input is one giant String:  
+          <br>
+          <br>
+          <i>check_string = 'var array = [1,2,3]\nfor (var i = 0; i < array.length; i++) {\n  console.log(\'hello world number: \' + array[i])\n}"'</i>
+          <br>
+          <br>
+          to iterate over this string, try check_string.chars.  You should check for the following types of brackets: [ ], { }, ( )
+        </code>
+
+        <!-- solution goes here -->
+
+      </div>
+
+      <div class="question stacks-queues">
+        <h3>Stacks & Queues Question</h3>
+        <code>
+          Reverse Polish Notation is a way to enter items in to a calculator for, well... calculation. It is ordered:
+          <br>
+          <br>
+          [First Number] [Second Number] [Operation]
+          <br>
+          <br>
+          <i><a href="https://www.instagram.com/p/sdEakRMSB8/?taken-by=jay_akers  ">Example</a></i>
+          <br>
+          <br>
+          Create a method called "rpn_calculator". It takes an a "splat" argument which is our mathematical formula. When inspected, is an Array of arguments.
+          <br>
+          <br>
+          It should look something like:
+          <br>
+          <br>
+          rpn_calculator(1, 2, "+") # returns 3
+          <br>
+          rpn_calculator(3,10,5,"+","*") # returns 45
+          <br>
+          <br>
+          HINT: To evaluate operators, we can use the .send method
+          <br>
+          <br>
+          Example: 2.send("+",3) # returns 5
+          <br>
+          Example: 6.send("-",2) # returns 4
+
+        </code>
+
+        <!-- solution goes here -->
+
+      </div>
+
 
       <div class="question recursion">
         <h3>Recursion Question</h3>
@@ -173,6 +265,7 @@
             edit_distance("alien", "sales") #=> 3
         </code>
       </div>
+
     </div> <!-- end inner container -->
   </div> <!-- end outer container -->
 

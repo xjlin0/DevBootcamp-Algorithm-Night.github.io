@@ -24,8 +24,8 @@ May 04 | Intro to Whiteboarding | -
 May 11 | Stacks & Queues | -
 May 18 | Recursion | -
 May 25 | Big O | -
-June 01 | Node & Linked Lists | -
-June 08 | Trees or Graph| -
+June 1 | Node & Linked Lists | -
+June 8 | Trees or Graph| -
 
 (Welcome to add yourself here, please fork and pull request, thanks!)
 

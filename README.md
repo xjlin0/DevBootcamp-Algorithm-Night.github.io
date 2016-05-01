@@ -1,10 +1,40 @@
-Link: http://devbootcamp-algorithm-night.github.io/
+Previous Link: http://devbootcamp-algorithm-night.github.io/
 
-#####Adding a solution to a question
-- Create a Gist with your solution
-- Ensure it passes the test(s)
-- Copy the script tag to embed it
-- Head to the correct spot on the questions HTML page and add the correct divs and so forth accordingly. The best way to do this is: 1) Copy/Past the div, 2) replace the name with yours, 3) replace the <script> tag with yours that you copied
-- Submit a pull request
+# Intro to Algorithms and Whiteboarding
+#### (Almost) every Wednesday 6:30pm - 8:00pm at DBC SF
+![tech interview](whiteboarding.jpg "whiteboarding scenario")
 
-:D
+Wanna to know more about whiteboarding for the tech interviews? Don't fight alone and feel frustrated, come to join us and discuss more. Let's practice together here, don't practice in your real job interviews.
+
+## What is it?
+
+A weekly workshop created to help DBC alumi/students practice their technical interview skills. The workshops are generally strucutred as follows:
+
+**6:30-7:00:** Thunder talk on an algorithms topic.
+
+**7:00-7:45:** Split up into groups of three. A new problem is displayed every 15 minutes. Each group member solves one problem while the other two group members act as interviewers.
+
+**7:45-8:00:** Everyone gathers back together as a large group and discusses the questions.
+
+## Schedule
+
+Date | Topic | Speaker
+ --- | --- | ---
+May 04 | Intro to Whiteboarding | -
+May 11 | Stacks & Queues | -
+May 18 | Recursion | -
+May 25 | Big O | -
+June 01 | Node & Linked Lists | -
+June 08 | Trees or Graph| -
+
+(Welcome to add yourself here, please fork and pull request, thanks!)
+
+## Resources
+
+**Amelia**
+- [Past Powerpoints and Videos](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
+- [Past Questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
+
+**John**
+- [Past Lecture Slides & Notes](http://devbootcamp-algorithm-night.github.io/lectures.html)
+- [Past Questions / Solutions](http://devbootcamp-algorithm-night.github.io/questions.html)

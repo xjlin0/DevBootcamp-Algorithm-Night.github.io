@@ -2,6 +2,9 @@ Previous Link: http://devbootcamp-algorithm-night.github.io/
 
 # Intro to Algorithms and Whiteboarding
 #### (Almost) every Wednesday 6:30pm - 8:00pm at DBC SF
+![alt text](whiteboarding.jpg "Logo Title Text 1")
+
+Wanna to know more about whiteboarding for the tech interview? Don't fight alone and feel frustrated, come to join us and discuss more, let's practice together.
 
 ## What is it?
 

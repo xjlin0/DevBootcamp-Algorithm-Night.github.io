@@ -2,8 +2,6 @@ Previous Link: http://devbootcamp-algorithm-night.github.io/
 
 # Intro to Algorithms and Whiteboarding
 #### (Almost) every Wednesday 6:30pm - 8:00pm at DBC SF
-- [All Powerpoints and Videos](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
-- [Past Questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
 
 ## What is it?
 
@@ -19,15 +17,22 @@ A weekly workshop created to help DBC alumi/students practice their technical in
 
 Date | Topic | Speaker
  --- | --- | ---
-May 4 | Intro to Whiteboarding | -
+May 04 | Intro to Whiteboarding | -
 May 11 | Stacks & Queues | -
 May 18 | Recursion | -
 May 25 | Big O | -
-June 1 | Linked Lists | -
-June 8 | Trees | -
+June 01 | Linked Lists | -
+June 08 | Trees | -
 
+(Welcome to add yourself here, please fork and pull request, thanks!)
 
 ## Resources
 
 **Internal**
+**Amelia**
+- [Past Powerpoints and Videos](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/powerpoint_links.md)
+- [Past Questions](https://github.com/adowns01/Intro-to-Whiteboarding-DBC/blob/master/questions.md)
 
+**John**
+- [Past Lecture Slides & Notes](http://devbootcamp-algorithm-night.github.io/lectures.html)
+- [Past Questions from Amelia](http://devbootcamp-algorithm-night.github.io/questions.html)

@@ -23,7 +23,7 @@ Date | Topic | Speaker
 May 04 | Intro to Whiteboarding | -
 May 11 | Stacks & Queues | Riley
 May 18 | Recursion | -
-May 25 | Big O | -
+May 25 | Big O | Dan
 June 1 | Node & Linked Lists | Nick
 June 8 | Trees or Graph| -
 

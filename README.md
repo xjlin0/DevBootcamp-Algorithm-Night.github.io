@@ -38,3 +38,6 @@ June 8 | Trees or Graph| Nick & Riley
 **John**
 - [Past Lecture Slides & Notes](http://devbootcamp-algorithm-night.github.io/lectures.html)
 - [Past Questions / Solutions](http://devbootcamp-algorithm-night.github.io/questions.html)
+
+**Nick**
+- [Algorithm Night Repository](https://github.com/psiclops/algorithm-night-slides)

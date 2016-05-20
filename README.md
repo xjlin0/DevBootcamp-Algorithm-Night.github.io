@@ -26,6 +26,14 @@ May 18 | Recursion | Nick
 May 25 | Big O | Dan
 June 1 | Node & Linked Lists | Nick
 June 8 | Trees or Graph| Nick & Riley
+June 15 | Intro to Whiteboarding |
+June 22 | Stacks & Queues |
+June 29 | Recursion |
+July 06 | campus close | campus close
+July 13 | Big O |
+July 20 | Node & Linked Lists |
+July 27 | Trees or Graph|
+
 
 (Welcome to add yourself here, please fork and pull request, thanks!)
 

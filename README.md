@@ -21,7 +21,7 @@ A weekly workshop created to help DBC alumi/students practice their technical in
 Date | Topic | Speaker
  --- | --- | ---
 May 25 | Big O | Riley
-June 1 | Node & Linked Lists | Nick
+June 1 | Node & Linked Lists | Jack
 June 8 | Trees or Graph| Nick & Riley
 June 15 | Intro to Whiteboarding | Charlie
 June 22 | Stacks & Queues |

@@ -49,3 +49,7 @@ July 27 | Trees or Graph|
 
 **Nick**
 - [Algorithm Night Repository](https://github.com/psiclops/algorithm-night-slides)
+
+**Charlie 6/15**
+- [Intro to Whiteboarding slides](https://docs.google.com/presentation/d/17IqDn7PjCrfhmFTXGSySXvFCJCIjM-VvPmpfFk6CTz8/edit#slide=id.gc6f9e470d_0_0)
+- [Question & Solutions](https://github.com/bopes/dbc-algorithm-night/blob/master/6-15_intro_solutions.rb)

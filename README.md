@@ -20,9 +20,6 @@ A weekly workshop created to help DBC alumi/students practice their technical in
 
 Date | Topic | Speaker
  --- | --- | ---
-June 15 | Intro to Whiteboarding | Charlie
-June 22 | Stacks & Queues | Jonathan
-June 29 | Recursion | Jonathan
 July 06 | campus close | campus close
 July 13 | Big O | Robin
 July 20 | Node & Linked Lists | Chris
@@ -30,6 +27,9 @@ July 27 | Trees or Graph| Erica
 Aug. 3 | Intro to Whiteboarding |
 Aug. 10 | Stacks & Queues |
 Aug. 17 | Recursion |
+Aug. 24 | Big O |
+Aug. 31 | Node & Linked Lists |
+Sep. 07 | Trees or Graph|
 
 (Welcome to add yourself here, please fork and pull request, thanks!)
 

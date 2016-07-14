@@ -26,7 +26,7 @@ July 20 | Node & Linked Lists | Chris
 July 27 | Trees or Graph| Erica
 Aug. 3 | Intro to Whiteboarding |
 Aug. 10 | Stacks & Queues |
-Aug. 17 | Recursion |
+Aug. 17 | Recursion | Jason
 Aug. 24 | Big O |
 Aug. 31 | Node & Linked Lists |
 Sep. 07 | Trees or Graph|

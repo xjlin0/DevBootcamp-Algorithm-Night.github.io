@@ -20,11 +20,7 @@ A weekly workshop created to help DBC alumi/students practice their technical in
 
 Date | Topic | Speaker
  --- | --- | ---
-July 06 | campus close | campus close
-July 13 | Big O | Robin
-July 20 | Node & Linked Lists | Chris
-July 27 | Trees or Graph| Erica
-Aug. 3 | Intro to Whiteboarding |
+Aug. 03 | Intro to Whiteboarding | Danielle
 Aug. 10 | Stacks & Queues |
 Aug. 17 | Recursion | Jason
 Aug. 24 | Big O |

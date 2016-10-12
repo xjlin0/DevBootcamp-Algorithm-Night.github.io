@@ -26,7 +26,7 @@ Oct. 19 | Trees or Graph|
 Oct. 26 | Intro to Whiteboarding |
 Nov. 02 | Stacks & Queues |
 Nov. 09 | Recursion |
-Nov. 16 | Big O | Wei
+Nov. 16 | Big O |
 Nov. 23 | Node & Linked Lists |
 Nov. 30 | Trees or Graph|
 

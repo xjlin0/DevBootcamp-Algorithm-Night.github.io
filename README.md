@@ -20,12 +20,15 @@ A weekly workshop created to help DBC alumi/students practice their technical in
 
 Date | Topic | Speaker
  --- | --- | ---
-Sep. 14 | Intro to Whiteboarding | Ryker
-Sep. 21 | Stacks & Queues | Millie & David
-Sep. 28 | Recursion |
 Oct. 05 | Big O | Wei
 Oct. 12 | Node & Linked Lists |
 Oct. 19 | Trees or Graph|
+Oct. 26 | Intro to Whiteboarding |
+Nov. 02 | Stacks & Queues |
+Nov. 09 | Recursion |
+Nov. 16 | Big O | Wei
+Nov. 23 | Node & Linked Lists |
+Nov. 30 | Trees or Graph|
 
 (Welcome to add yourself here, please fork and pull request, thanks!)
 

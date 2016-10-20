@@ -20,10 +20,7 @@ A weekly workshop created to help DBC alumi/students practice their technical in
 
 Date | Topic | Speaker
  --- | --- | ---
-Oct. 05 | Big O | Wei
-Oct. 12 | Node & Linked Lists |
-Oct. 19 | Trees or Graph|
-Oct. 26 | Intro to Whiteboarding |
+Oct. 26 | Intro to Whiteboarding | Sally
 Nov. 02 | Stacks & Queues |
 Nov. 09 | Recursion |
 Nov. 16 | Big O |

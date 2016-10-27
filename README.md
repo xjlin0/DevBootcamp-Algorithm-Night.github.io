@@ -25,7 +25,7 @@ Nov. 02 | Stacks & Queues |
 Nov. 09 | Recursion |
 Nov. 16 | Big O |
 Nov. 23 | Node & Linked Lists |
-Nov. 30 | Trees or Graph|
+Nov. 30 | Trees or Graph| Sean
 
 (Welcome to add yourself here, please fork and pull request, thanks!)
 

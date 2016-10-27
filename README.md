@@ -41,3 +41,6 @@ Nov. 30 | Trees or Graph| Sean
 
 **Nick**
 - [Algorithm Night Repository](https://github.com/psiclops/algorithm-night-slides)
+
+**Sally**
+- [Algorithm resources](https://github.com/parkyngj/algorithm-resources)

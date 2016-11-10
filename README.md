@@ -23,7 +23,7 @@ Date | Topic | Speaker
 Oct. 26 | Intro to Whiteboarding | Sally
 Nov. 02 | Stacks & Queues |
 Nov. 09 | Recursion |
-Nov. 16 | Big O |
+Nov. 16 | Big O | Megan
 Nov. 23 | Node & Linked Lists |
 Nov. 30 | Trees or Graph| Sean
 

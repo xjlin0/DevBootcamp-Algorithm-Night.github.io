@@ -28,8 +28,6 @@ Jan. 04 | Big O | Megan
 Jan. 11 | Node & Linked Lists |
 Jan. 18 | Trees or Graph|
 
-jess jessicafellison@gmail.com
-
 (Welcome to add yourself here, please fork and pull request, thanks!)
 
 ## Resources

@@ -20,12 +20,15 @@ A weekly workshop created to help DBC alumi/students practice their technical in
 
 Date | Topic | Speaker
  --- | --- | ---
-Oct. 26 | Intro to Whiteboarding | Sally
-Nov. 02 | Stacks & Queues |
-Nov. 09 | Recursion |
-Nov. 16 | Big O | Megan
-Nov. 23 | Node & Linked Lists |
-Nov. 30 | Trees or Graph| Sean
+Dec. 07 | Intro to Whiteboarding | Jess
+Dec. 14 | Stacks & Queues |
+Dec. 21 | Campus closed | Merry Christmas
+Dec. 28 | Recursion |
+Jan. 04 | Big O | Megan
+Jan. 11 | Node & Linked Lists |
+Jan. 18 | Trees or Graph|
+
+jess jessicafellison@gmail.com
 
 (Welcome to add yourself here, please fork and pull request, thanks!)
 
@@ -45,6 +48,9 @@ Nov. 30 | Trees or Graph| Sean
 **Sally**
 - [Algorithm resources](https://github.com/parkyngj/algorithm-resources)
 
-**Charlie 6/15**
+**Sean**
+- [Graph and Tree](https://docs.google.com/presentation/d/1R8UF8xImBl5EonkhlNGU91QI_iHV-FwiV03PyxxHg50/edit?usp=sharing)
+
+**Charlie**
 - [Intro to Whiteboarding slides](https://docs.google.com/presentation/d/17IqDn7PjCrfhmFTXGSySXvFCJCIjM-VvPmpfFk6CTz8/edit#slide=id.gc6f9e470d_0_0)
 - [Question & Solutions](https://github.com/bopes/dbc-algorithm-night/blob/master/6-15_intro_solutions.rb)

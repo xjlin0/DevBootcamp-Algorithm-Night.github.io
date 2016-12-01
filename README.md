@@ -24,7 +24,7 @@ Dec. 07 | Intro to Whiteboarding | Jess
 Dec. 14 | Stacks & Queues |
 Dec. 21 | Campus closed | Merry Christmas
 Dec. 28 | Recursion |
-Jan. 04 | Big O | Megan
+Jan. 04 | Big O |
 Jan. 11 | Node & Linked Lists |
 Jan. 18 | Trees or Graph|
 

@@ -20,13 +20,13 @@ A weekly workshop created to help DBC alumi/students practice their technical in
 
 Date | Topic | Speaker
  --- | --- | ---
-Dec. 07 | Intro to Whiteboarding | Jess
-Dec. 14 | Stacks & Queues | Aaron
-Dec. 21 | Recursion | John
-Dec. 28 | Campus closed | Merry Christmas
-Jan. 04 | Big O |
-Jan. 11 | Node & Linked Lists |
 Jan. 18 | Trees or Graph|
+Jan. 25 | Intro to Whiteboarding |
+Feb. 01 | Stacks & Queues |
+Feb. 08 | Recursion |
+Feb. 15 | Big O |
+Feb. 22 | Node & Linked Lists |
+Mar. 01 | Trees or Graph|
 
 (Welcome to add yourself here, please fork and pull request, thanks!)
 

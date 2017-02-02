@@ -25,7 +25,7 @@ Feb. 01 | Stacks & Queues | Megan
 Feb. 08 | Recursion | Katrina
 Feb. 15 | Big O |
 Feb. 22 | Node & Linked Lists |
-Mar. 01 | Trees or Graph|
+Mar. 01 | Trees or Graph| Camille
 
 (Welcome to add yourself here, please fork and pull request, thanks!)
 

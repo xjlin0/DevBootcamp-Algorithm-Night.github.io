@@ -20,12 +20,12 @@ A weekly workshop created to help DBC alumi/students practice their technical in
 
 Date | Topic | Speaker
  --- | --- | ---
-Jan. 25 | Intro to Whiteboarding |
-Feb. 01 | Stacks & Queues | Megan
-Feb. 08 | Recursion | Katrina
-Feb. 15 | Big O |
-Feb. 22 | Node & Linked Lists |
-Mar. 01 | Trees or Graph| Camille
+Mar. 08 | Intro to Whiteboarding |
+Mar. 15 | Stacks & Queues |
+Mar. 22 | Recursion |
+Mar. 29 | Big O |
+Apr. 05 | Node & Linked Lists |
+Apr. 12 | Trees or Graph|
 
 (Welcome to add yourself here, please fork and pull request, thanks!)
 
